@@ -1,0 +1,6 @@
+temp/
+.venv/
+VirtualEnv
+.vscode/
+build/
+.DS_Store
