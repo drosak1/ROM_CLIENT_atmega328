@@ -1,5 +1,5 @@
 /*
-  Visual 
+  Visual + ATMEGA328P
 */
 #include <Arduino.h>
 
