@@ -1,4 +1,4 @@
-# Arduino ESP32 Multitasking Example
+# Atmega328P Multitasking Example
 
 This project demonstrates multitasking on the ATMEGA328 platform using FreeRTOS
 
